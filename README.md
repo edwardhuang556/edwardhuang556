@@ -13,20 +13,6 @@ from real-time telemetry analysis to automated data pipelines.
 - **Real-time data tools** — UDP/stream capture, telemetry analysis
 - **Algorithm-heavy problems** — optimization, scheduling (C/C++, Python)
 
-## 🚧 Currently Building
-
-- **F1 Telemetry Analyzer** — captures live UDP telemetry from F1 25 and generates lap comparison reports (speed traces, braking points, tyre data)
-- **Data → Report Pipeline** — automated scraping, cleaning, and scheduled reporting to Excel / Google Sheets
-
-<!--
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [**F1 Telemetry Analyzer**](https://github.com/edwardhuang556/) | Captures live UDP telemetry from F1 25 and generates lap comparison reports (speed traces, braking points, tyre data). | Python, pandas, matplotlib |
-| [**Data → Report Pipeline**](https://github.com/edwardhuang556/) | ... | ... |
--->
-
 ## 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
